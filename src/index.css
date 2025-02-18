@@ -116,7 +116,7 @@
 }
 
 .cardpizza__ingredientes::before {
-  content: url("/EmojiPizza.png");
+  content: url("https://raw.githubusercontent.com/rodolazo/pizzeria-mammamia/refs/heads/main/public/EmojiPizza.png");
   margin-right: 5px;
   display: inline-block;
 }
