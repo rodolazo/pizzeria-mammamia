@@ -116,7 +116,7 @@
 }
 
 .cardpizza__ingredientes::before {
-  content: "🍕";
+  content: url("/EmojiPizza.png");
   margin-right: 5px;
   display: inline-block;
 }
